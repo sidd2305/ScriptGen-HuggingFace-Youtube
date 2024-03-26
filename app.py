@@ -23,7 +23,7 @@ Original file is located at
 # !pip install transformers
 #
 
-!streamlit run youtube_pipeline.py & npx localtunnel --port 8501
+# !streamlit run youtube_pipeline.py & npx localtunnel --port 8501
 
 import torch
 import yt_dlp as youtube_dl
