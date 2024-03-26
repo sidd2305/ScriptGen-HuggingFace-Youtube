@@ -16,10 +16,10 @@ This repository introduces an avant-garde pipeline that harnesses the power of H
 
 ## Features
 
-- **Seamless Integration:** Coherent processing of textual and visual inputs ensures synchronized script generation.
+- **Seamless Integration:** Can taken in youtube video`s url to generate a script akin to the input youtube url
   
-- **Personalized Recommendations:** Generates tailored script recommendations based on individual interests and preferences.
+- **Personalized Recommendations:** Generates tailored script recommendations based on individual interests.
   
-- **Fine-tuned Script Generation:** Synthesizes scripts aligned with thematic essence and narrative style.
+- **Fine-tuned Script Generation:** Synthesizes scripts aligned with thematic essence and narrative style of the original youtube video.
   
-- **Enhanced User Experience:** User-friendly interface facilitates effortless input and retrieval of meticulously crafted script recommendations.
+- **Enhanced User Experience:** User-friendly interface facilitates effortless input and retrieval of meticulously crafted script recommendations and visual thumbnails.
