@@ -1,0 +1,11 @@
+torch
+yt-dlp
+transformers
+torchvision
+imageio
+gradio
+scipy
+ftfy
+accelerate
+streamlit
+diffusers==0.11.1
